@@ -1,0 +1,6 @@
+main: com.corosus.vortexbomb.VortexBomb
+name: VortexBomb
+version: 0.1
+author: Corosus
+description: Spawns a vortex bomb where an egg is thrown
+api-version: 1.13
